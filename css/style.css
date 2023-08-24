@@ -22,3 +22,17 @@ body{
     background: url(../imagens/logo.png) no-repeat center;
     text-indent: -3000px;
 }
+/* Barra de nagegação */
+#navegacao{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#topo ul{
+    background: #b10333;
+}
