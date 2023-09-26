@@ -179,6 +179,12 @@ h3{
     background: #de003e;
     color: #fff;
 }
+/* Formatando lista de noticias */
+#lista-noticias li{
+    padding: 2px;
+    border-bottom: 1px solid #ccc;
+    height:65px ;
+}
 #rodape{
     width: 750px;
     margin: 0 auto;
